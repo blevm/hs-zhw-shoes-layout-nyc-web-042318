@@ -24,10 +24,6 @@
 
 /* Posititoning Classes */
 
-img, video, audio {
-  max-width: 100%;
-}
-
 /*   LAYOUT   */
 
 .col-1 {
@@ -48,6 +44,10 @@ img, video, audio {
 
 [class*="col-"] {
   margin-left: 2%;
+}
+
+.shoe-display{
+  margin-top: 30px;
 }
 
 .first {
