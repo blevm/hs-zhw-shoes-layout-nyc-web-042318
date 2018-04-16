@@ -59,6 +59,7 @@
   height: 100%
 }
 
-#details div{
-  height: 100%
+#details div {
+  padding-top:10px;
+  padding-left:10px;
 }
