@@ -58,6 +58,6 @@
   padding-left:10px;
 }
 
-h2 .milk-text {
-  line-height:120%;
+h2.milk-text {
+  line-height:300%;
 }
